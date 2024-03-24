@@ -30,7 +30,7 @@
 **3) [Shader list](https://modrinth.com/shaders)** 
 - *actual files that customized minecraft blocks into different style* <br>
     - shader version not necessarily have to be compactible with minecraft version 100%, not like OptiFine
-    - I am use [Complementary Unbound r5](https://modrinth.com/shader/complementary-unbound/version/latest), [BSL Shaders](https://modrinth.com/shader/bsl-shaders/versions)  some don't work mac java version. Kappa is the one I want to try, but not compatible.
+    - I use [Complementary Unbound r5](https://modrinth.com/shader/complementary-unbound/version/latest), [BSL Shaders](https://modrinth.com/shader/bsl-shaders/versions)  some don't work mac java version. Kappa is the one I want to try, but not compatible.
     - shader file must be zipped, rezip it if macOS unzip after downloading, right click compress
 - *Complementary-unbound basic setting* <br>
     - Visual style: `unbound` <br>
