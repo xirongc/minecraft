@@ -23,9 +23,6 @@
     - click on (Mirror), and download
     - open .jar will directly download it for the minecraft folder (/usr/library/AppSupport/minecraft on Mac)
 - *the version of OptiFine must match the version of minecraft you are playing*
-<!-- alignment problem -->
-<!-- <img src="./screenshoots/launcher.PNG" width=700 align="float:left;"> -->
-<!-- <div style="clear:both"></div> -->
 <img src="./screenshoots/launcher.PNG" width=700 style="display: block; margin-left: auto; margin-right: auto" />
 <br>
 
@@ -36,9 +33,10 @@
     - I am use [Complementary Unbound r5](https://modrinth.com/shader/complementary-unbound/version/latest), [BSL Shaders](https://modrinth.com/shader/bsl-shaders/versions)  some don't work mac java version. Kappa is the one I want to try, but not compatible.
     - shader file must be zipped, rezip it if macOS unzip after downloading, right click compress
 - *Complementary-unbound basic setting* <br>
-    - visual style: `unbound` <br>
+    - Visual style: `unbound` <br>
     - RP support: `Integrated PBR+`
-    - lighting multipliers "ON" (sunrise/sunset/noon): `RGB: 1` | `Intensity: 0.9`
+    - Lighting multipliers "ON" (sunrise/sunset/noon): `RGB: 1` | `Intensity: 0.9`
+    - Performance setting: (TBA)
     - Atmosphere multipliers "ON"
         - Atmosphere color multipliers (sunrise/sunset/noon): `RGB=0.85`
         - clouds style: `unbound` | clouds shadow: `ON`
@@ -46,10 +44,10 @@
         - sun/moon style: `unbound`
         - sun/moon angle: `-40 unbound`
         - weather texture: `opacity=85`
+    - material: `Integrated PBR+` -> Generated Normal: `ON` | Coated Textures: `ON`
         - water & water caustic style: `unbound`
         - water surface color: `RGB=0.85`
-        - water brighter shallow/cave water: `OFF`
-    - material: `Integrated PBR+` -> Generated Normal: `ON` | Coated Textures: `ON`
+        - brighter shallow/cave water: `OFF`
     - other: world outline `ON`
 - *render setting* <br>
     - the white blurring effect I think is because the rendering blocks are not enough
@@ -85,11 +83,14 @@
 **`+`** *Forest Entanece: ByTheSea (1934.070 / 63 / -2813.602) - copied from [disruptive builds](https://www.youtube.com/watch?v=Sjd9qLXC8fs&t=271s)* <br>
 <img src="./screenshoots/forest_tunnel.png" width=1000>
 
+**`+`** *Hallway: ByTheSea* <br>
+<img src="./screenshoots/hallway.png" width=1000>
+
 **`+`** *Red Build: ByTheSea (inspired by stranger things)* <br>
 <img src="./screenshoots/red_build.png" width=1000>
 
-**`+`** *Top View: ByTheSea* <br>
-<img src="./screenshoots/top_view_night.png" width=1000>
+**`+`** *Plateau Place: ByTheSea (xyz: 5923 / 63 / 866)* <br>
+<img src="./screenshoots/plateau.png" width=1000>
 
 
 
@@ -101,3 +102,4 @@
 - [ ] interesting redstone [builds](https://www.youtube.com/watch?v=DfB35EJnUbk)
 - [ ] Building [ideas](https://www.youtube.com/watch?v=yHrYamVmdhc)
     - the last one is interesting, can place a mod on top
+
